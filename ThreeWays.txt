@@ -1,7 +1,0 @@
-This is three ways merging..
-
-Change 1: by local master..
-
-Change 2: Colon added by the idea branch
-
-Change 3: added by bug branch
