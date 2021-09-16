@@ -1,1 +1,5 @@
+
 BugFix in UI Feature is modified by as NVIDIA Driver is Added to run gameplay.
+
+UI-Feature: Graphics NVDIA added to application for Gameplay by local master
+
