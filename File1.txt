@@ -18,3 +18,6 @@ This is sixth commit from remote.
 This is seventh commit from remote.
 
 This is night commit from local.
+
+This is eight commit from remote.
+
