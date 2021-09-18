@@ -27,3 +27,6 @@ This is 11th commit from remote.
 
 This is 13th commit from remote.
 
+This is 12th commit from local.
+
+
