@@ -4,4 +4,6 @@ This is changed by remote
 
 This is changes by local
 
-This is changes by remote
+This is changes by local 1
+
+This is changes by remote 2
