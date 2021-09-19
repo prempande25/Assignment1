@@ -7,7 +7,3 @@ This is changes by local 1
 
 This is changes by remote 2
 
-This is changes by local 4
-
-
-
