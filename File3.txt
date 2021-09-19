@@ -1,2 +1,7 @@
 This is pull operation for local to remote
+
 This is changed by remote
+
+
+This is changes by local
+
