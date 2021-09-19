@@ -6,8 +6,6 @@ This is changes by local 1
 
 This is changes by remote 2
 
-This is changed to remove the merged from remote abd local
 
-This is interative mode for rebasing the commit to undo remote and local repo.
 
 
