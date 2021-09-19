@@ -2,8 +2,9 @@ This is pull operation for local to remote
 
 This is changed by remote
 
-
 This is changes by local 1
 
 This is changes by remote 2
+
+This is changed to remove the merged from remote abd local
 
