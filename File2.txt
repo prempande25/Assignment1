@@ -5,4 +5,4 @@ This is commit by user 2 by remote.
 This is user1 commit by local
 
 
-autosetuprebase awYS
+The new steps3
