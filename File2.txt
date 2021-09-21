@@ -8,3 +8,5 @@ This is user1 commit by local
 The new steps3
 
 The new steps4
+
+remote sync to put my changes on top
